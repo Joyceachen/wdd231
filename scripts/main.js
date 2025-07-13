@@ -4,6 +4,7 @@ const courses = [
     { code: "CSE 110", name: "Introduction to Programming", credits: 2, subject: "cse", completed: true },
     { code: "WDD 230", name: "Web Frontend Development I", credits: 2, subject: "wdd", completed: false },
     { code: "WDD 231", name: "Web Frontend Development II", credits: 2, subject: "wdd", completed: false },
+    { code: "CIT 160", name: "Programming Building Blocks", credits: 2, subject: "cit", completed: true },
     { code: "CSE 111", name: "Programming with Functions", credits: 2, subject: "cse", completed: true },
     { code: "CSE 210", name: "Programming with Classes", credits: 2, subject: "cse", completed: true }
 ];
